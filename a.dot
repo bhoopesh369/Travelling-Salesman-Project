@@ -1,0 +1,29 @@
+graph G {
+label="Original Graph";
+labeljust=c;
+labelloc=t;
+layout=circo;
+mindist=2.5;
+size="10, 10!";
+0;
+1;
+2;
+3;
+4;
+5;
+1--0  [color=black, dir=none, fontcolor=black, fontsize=11, headlabel=20, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=20];
+2--0  [color=black, dir=none, fontcolor=black, fontsize=11, headlabel=30, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=30];
+3--0  [color=black, dir=none, fontcolor=black, fontsize=11, headlabel=50, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=50];
+4--0  [color=red, dir=none, fontcolor=red, fontsize=11, headlabel=20, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=20];
+5--0  [color=red, dir=none, fontcolor=red, fontsize=11, headlabel=10, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=10];
+2--1  [color=black, dir=none, fontcolor=black, fontsize=11, headlabel=90, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=90];
+3--1  [color=red, dir=none, fontcolor=red, fontsize=11, headlabel=15, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=15];
+4--1  [color=red, dir=none, fontcolor=red, fontsize=11, headlabel=17, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=17];
+5--1  [color=black, dir=none, fontcolor=black, fontsize=11, headlabel=31, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=31];
+3--2  [color=red, dir=none, fontcolor=red, fontsize=11, headlabel=28, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=28];
+4--2  [color=black, dir=none, fontcolor=black, fontsize=11, headlabel=60, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=60];
+5--2  [color=red, dir=none, fontcolor=red, fontsize=11, headlabel=11, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=11];
+4--3  [color=black, dir=none, fontcolor=black, fontsize=11, headlabel=25, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=25];
+5--3  [color=black, dir=none, fontcolor=black, fontsize=11, headlabel=20, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=20];
+5--4  [color=black, dir=none, fontcolor=black, fontsize=11, headlabel=13, labelangle=15, labeldistance=3.5, margin=0.5, penwidth=2, style="", taillabel=13];
+}

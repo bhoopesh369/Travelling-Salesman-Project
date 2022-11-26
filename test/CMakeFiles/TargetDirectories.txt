@@ -1,0 +1,3 @@
+/home/bhoopesh/CGT_Project/build/test/CMakeFiles/DisplayImage.dir
+/home/bhoopesh/CGT_Project/build/test/CMakeFiles/edit_cache.dir
+/home/bhoopesh/CGT_Project/build/test/CMakeFiles/rebuild_cache.dir
